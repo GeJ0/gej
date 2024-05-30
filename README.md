@@ -52,7 +52,6 @@
     git push origin v1.0.0
     ```
 
-## 鸣谢
 
 本项目由 **[MaaFramework](https://github.com/MaaXYZ/MaaFramework)** 强力驱动！
 
