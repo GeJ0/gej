@@ -53,9 +53,5 @@
     ```
 
 
-本项目由 **[MaaFramework](https://github.com/MaaXYZ/MaaFramework)** 强力驱动！
-
-<a href="https://github.com/MaaXYZ/MaaFramework/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MaaXYZ/MaaFramework&max=1000" />
 </a>
 
