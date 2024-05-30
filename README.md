@@ -1,10 +1,4 @@
-# MaaPracticeBoilerplate
 
-MaaFramework 实践模板。
-
-## 如何开发
-
-0. 使用右上角 `Use this template` - `Create a new repository` 来基于本模板创建您自己的项目。
 
 1. 完整克隆本项目及子项目（地址请修改为您基于本模板创建的新项目地址）。
 
@@ -61,8 +55,6 @@ MaaFramework 实践模板。
 ## 鸣谢
 
 本项目由 **[MaaFramework](https://github.com/MaaXYZ/MaaFramework)** 强力驱动！
-
-感谢以下开发者对本项目作出的贡献（下面链接改成你自己的项目地址）:
 
 <a href="https://github.com/MaaXYZ/MaaFramework/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MaaXYZ/MaaFramework&max=1000" />
